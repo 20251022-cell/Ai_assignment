@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HR RecruitPro</string>
+    <string name="welcome_tagline">Smart Recruitment &amp; Candidate Screening</string>
+    <string name="welcome_description">Streamline applicant intake, organize candidate profiles, and review rule-based skill alignment in one clean workspace.</string>
+    <string name="get_started">Get Started</string>
+    <string name="demo_mode_badge">Demonstration Mode • Sample Data Only</string>
+    <string name="dashboard_title">HR Dashboard</string>
+    <string name="sample_data_notice">Sample Data — Metrics and profiles shown are for demonstration purposes.</string>
+    <string name="add_candidate">Add Candidate</string>
+    <string name="view_reports">View Reports</string>
+    <string name="screening_title">Candidate Screening</string>
+    <string name="submit_candidate">Submit Candidate</string>
+    <string name="reports_title">Results &amp; Reports</string>
+    <string name="back_to_dashboard">Back to Dashboard</string>
+    <string name="rule_based_disclaimer">Sample Rule-Based Matching Result (Not a Live AI Decision) — Compares candidate skills against sample role requirements for demonstration only. Does not make final hiring or rejection decisions.</string>
+</resources>

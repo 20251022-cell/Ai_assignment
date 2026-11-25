@@ -1,0 +1,6 @@
+{
+  "name": "HR RecruitPro",
+  "description": "Mobile HR recruitment dashboard, candidate screening, and sample rule-based skill matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
